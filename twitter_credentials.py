@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Feb 15 00:13:41 2021
+
+@author: umang sharma
+"""
+
+ACCESS_TOKEN = "1360549129932296199-7lj86tDldukVeowM9HqLLo1fWh1sLp"
+ACCESS_TOKEN_SECRET = "he65JbU1c2gVlgzaJIY9dVDD7GciYl0Ov4iBu7jtfSe99"
+CONSUMER_KEY = "av4z019DT8nSitVvaoQED0fWU"
+CONSUMER_SECRET = "Fydp8Qpd3kCiUVN2YURBC6P8aumbzPNmZ2tmlFmW3lXFT1t8WW"
